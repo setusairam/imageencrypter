@@ -5,7 +5,7 @@ import math
 import csv
 from PIL import Image
 import pandas as pd
-#from cryptography.fernet import Fernet
+from cryptography.fernet import Fernet
 
 
 
